@@ -1,4 +1,4 @@
-# EOG-Classification-With-Machine-Learning-Classification
+# EOG-Clasification-With-Machine-Learning-Algorithms
 EOG Signal Feature Extraction and Eye Movement Clarification
 
 
